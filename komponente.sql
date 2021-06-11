@@ -15,6 +15,15 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
+
+--
+-- Database: komponenten
+--
+CREATE DATABASE IF NOT EXISTS komponenten DEFAULT CHARACTER SET latin1 COLLATE latin1_german1_ci;
+USE komponenten;
+
+-- --------------------------------------------------------
+
 --
 -- Table structure for table `deck`
 --
