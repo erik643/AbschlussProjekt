@@ -240,5 +240,8 @@
     <Resource Include="Img\redz.png" />
     <Resource Include="Img\spitfireb.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Img\santlogo.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
